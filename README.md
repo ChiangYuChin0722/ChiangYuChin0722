@@ -221,6 +221,5 @@ I'm interested in opportunities around:
 
 *May your models converge and your code compile.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
 </div>
