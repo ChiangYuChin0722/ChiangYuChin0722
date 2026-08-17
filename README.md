@@ -209,9 +209,9 @@ I'm interested in opportunities around:
 📍 United Kingdom 🇬🇧
 📍 Taiwan 🇹🇼
 
-💼 [LinkedIn](YOUR_LINKEDIN_URL)
+💼 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/chianghebe/?locale=en))
 
-📧 [Email](mailto:YOUR_EMAIL)
+📧 [Email](hebe4090409@gmail.com)
 
 ---
 
