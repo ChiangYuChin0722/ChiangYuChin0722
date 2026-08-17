@@ -91,12 +91,19 @@ Making pipelines so the data can travel more than I do.
 I've worked on quantitative research involving:
 
 📊 Asset Returns
+
 🔁 Backtesting
+
 💼 Portfolio Construction
+
 📉 Drawdown Analysis
+
 🌍 Macroeconomic Sensitivity
+
 ⏱️ Time Series Analysis
+
 🧪 Scenario & Stress Testing
+
 
 My research also explores how banking stocks respond to macroeconomic variables such as inflation and interest-rate shocks.
 
