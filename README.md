@@ -194,19 +194,20 @@ But more edge cases.
 
 ## 📊 GitHub
 
-![Hebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChiangYuChin0722&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ChiangYuChin0722)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Chat
 
 I'm interested in opportunities around:
 
 **Data Science · Quant Research · AI · FinTech · Software Engineering**
 
 📍 United Kingdom 🇬🇧
+📍 Taiwan 🇹🇼
 
 💼 [LinkedIn](YOUR_LINKEDIN_URL)
 
