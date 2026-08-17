@@ -207,6 +207,7 @@ I'm interested in opportunities around:
 **Data Science · Quant Research · AI · FinTech · Software Engineering**
 
 📍 United Kingdom 🇬🇧
+
 📍 Taiwan 🇹🇼
 
 💼 [LinkedIn](https://www.linkedin.com/in/chianghebe/?locale=en)
